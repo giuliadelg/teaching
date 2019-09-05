@@ -4,6 +4,7 @@ author: "GDG"
 date: "September 5, 2019"
 output: 
   html_document:
+    keep_md: true
     toc: true
     toc_float: true
     toc_depth: 3
